@@ -1,2 +1,5 @@
 # kaggle-github-coder-badge
-Minimal public notebook repo for unlocking Kaggle Github Coder badge (dovydigital).
+
+Public notebook used to unlock Kaggle's **Github Coder** badge for [dovydigital](https://www.kaggle.com/dovydigital).
+
+Import into Kaggle from: `kaggle_github_coder_badge.ipynb`
